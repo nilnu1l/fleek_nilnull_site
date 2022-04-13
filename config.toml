@@ -1,0 +1,10 @@
+baseurl = "/"
+title = "nilnull_site"
+languageCode = "en-us"
+theme = "PaperMod"
+paginate = 5
+relativeUrls = true
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
